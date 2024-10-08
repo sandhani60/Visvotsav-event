@@ -17,7 +17,7 @@
 ## Event Details
 
 - **Dates**: September 13th - 15th, 2024
-- **Venue**: [Specify the venue/location if applicable]
+- **Venue**: PBRVITS
 - **Registration Link**: [visvotsav.in](https://visvotsav.in/)
   
 ---
